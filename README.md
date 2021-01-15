@@ -6,4 +6,5 @@ This is my personal pytorch study repository.
 OS:Windows10,Ubuntu20.04.1 LTS<br>
 Python:3.8.3<br>
 IDE:Atom/Jupyternotebook(Anaconda)<br>
-<hr>
+<hr>　
+
